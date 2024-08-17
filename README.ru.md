@@ -14,7 +14,7 @@ _Прочитать на другом языке: [English](README.md), [Рус�
 
 ## Демо версия
 
-<img src="assets/demo/demo.png" width="300" />
+<img src="assets/demo/demo.png" width="200" />
 
 ## Установка проекта
 
@@ -27,3 +27,14 @@ _Прочитать на другом языке: [English](README.md), [Рус�
 
 - `flutter pub get`
 - `flutter pub add http`
+
+## Используемые фреймворки и технологии
+
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+
+* Описание: Flutter - это фреймворк с открытым исходным кодом от Google для создания красивых, изначально скомпилированных мультиплатформенных приложений на основе единой кодовой базы.
+* Ресурсы:
+  * Официальный сайт: [Official Website](https://flutter.dev/)
+  * Документация: [Documentation](https://docs.flutter.dev/)
