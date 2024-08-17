@@ -12,7 +12,7 @@ Only the function of reading JSON files from the website https://www.balldontlie
 <img src="assets/demo/demo.png" width="200" />
 
 ## Project Installation
-1. [Установка Flutter](https://docs.flutter.dev/get-started/install)
+1. [Installing Flutter](https://docs.flutter.dev/get-started/install)
 
 2. Cloning a repository
    `git clone https://github.com/karishka1222/NBA-app-Pet-project-on-Flutter.git`
